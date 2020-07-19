@@ -47,7 +47,6 @@ Hi, I'm Abhishek Marriala, a Student 🚀 from Hyderabad, India, currently.
 
 - 🌱 I’m currently learning ML 
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020
 - 📫 How to reach me: abhishek.marriala@gmail.com
 <!-- - 📝[Resume] -->
 
