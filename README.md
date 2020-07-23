@@ -45,7 +45,7 @@ Hi, I'm Abhishek Marriala, a Student 🚀 from Hyderabad, India, currently.
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Blockchain 
+- 🌱 I’m currently learning Blockchain Technology
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: abhishek.marriala@gmail.com
 <!-- - 📝[Resume] -->
