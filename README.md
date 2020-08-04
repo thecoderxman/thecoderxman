@@ -50,7 +50,6 @@ Hi, I'm Abhishek Marriala, a Student 🚀 from Hyderabad, India, currently.
 - 📫 How to reach me: abhishek.marriala@gmail.com
 <!-- - 📝[Resume] -->
 
-https://github-readme-stats.vercel.app/api?username=thecoderxman
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=thecoderxman)](https://github.com/thecoderxman)
 
