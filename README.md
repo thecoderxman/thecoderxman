@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 <br />
 
 
-Hi, I'm Abhishek Marriala, a Student 🚀 from Hyderabad, India, currently.
+Hi, I'm Abhishek Marriala, a Software Engineer 🚀 from Hyderabad, India.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Just a Introduction:**
 
-💻 Hello world, I am a university student doing my undergraduate B.Tech from Sreenidhi Institute of Science and Technology and I am passionate about technology and want to learn + explore new technologies.
+💻 Hello world, I am a Software Engineer and I bring strong experience as a Software Development Engineer with expertise in backend technologies.
 
 **Talking about Personal Stuffs:**
 
